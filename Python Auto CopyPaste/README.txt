@@ -32,5 +32,7 @@ Click the "Submit" button to extract the invoice numbers.
 
 Press Ctrl + V to paste the extracted invoice numbers one by one. The application will automatically copy the next invoice number after each paste action. When all invoice numbers have been pasted, the word "Finished" will be copied to the clipboard.
 
+There is also an executable version for windows that can be found in the dist folder.
+
 License
 This project is available under the MIT License. See the LICENSE file for more info.
